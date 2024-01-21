@@ -8,7 +8,7 @@ html, body {
     perspective: 600px;
     background: #ffffff;
     background: linear-gradient(#cccccc,#cccccc,#efefef);
-    color: #black;
+    color: black;
     text-align:center;
   }
 
