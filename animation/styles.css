@@ -34,7 +34,7 @@ body {
         padding: 0;
         float: left;
         height: 336px;
-        background-image: url(http://www.romancortes.com/ficheros/coke-label.jpg);
+        background-image: url(https://scontent.ftbs5-2.fna.fbcdn.net/v/t1.6435-9/36547159_1767627569980478_248660885403336704_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=300f58&_nc_eui2=AeGCBXWB9E8wYeWH1ydSkynlialuSfnNruGJqW5J-c2u4Zvwk50AVRTkuCelCTVjHs7_fadz4Y848HlIyplnviL-&_nc_ohc=Rh3tcBko5XYAX8vK3Gw&_nc_ht=scontent.ftbs5-2.fna&oh=00_AfAjL-j1usPL22xgAlRfuuWSsaamqONQKbnGAyoM2XnshA&oe=65D7771E);
         background-attachment: fixed;
         background-repeat: repeat-x;
         width: 1px;
@@ -400,4 +400,4 @@ button {
         padding-bottom: 5px;
         font-size: 14px;
     }
-} 
+}
