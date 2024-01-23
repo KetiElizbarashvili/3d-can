@@ -1,8 +1,7 @@
-var DRUM_TEXTURE = "images/can1.png";
-var REFLECTION_TEXTURE = "images/canref4.png";
-var SHADOW_TEXTURE = "images/shadow4.png";
+var DRUM_TEXTURE = "can1.png";
+var REFLECTION_TEXTURE = "canref4.png";
+var SHADOW_TEXTURE = "shadow4.png";
 
-// Assembiles are for grouping faces and other assembiles
 function createAssembly() {
     var assembly = document.createElement("div");
     assembly.className = "threedee assembly";
